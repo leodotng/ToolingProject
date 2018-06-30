@@ -39,10 +39,12 @@ Create a Full Stack Application using many modern JS tools and switching functio
 ## API 
 * GraphQL
 
-## FEF
-* React + Redux
+## FEF related
+* React
 * Angular
 * Vuejs
+* Flux
+* Redux
 
 ## Misc
 * Elixir
@@ -50,6 +52,14 @@ Create a Full Stack Application using many modern JS tools and switching functio
 * Browserify
 * Yeoman
 * Duo
+* ReasonML
+* GOlang on the backend?
+* CircleCI
+* Travis
+
+## JS Libraries
+* Momentjs
+
 
 ## Ideas
 * PWA 
