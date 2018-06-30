@@ -6,8 +6,13 @@
 * Gulp
 * Add in TypeScript
 
+## Tasks
+* Gulp
+* Grunt
+
 ## Testing
 
 * Cypress
 * Mocha
 * Chai
+
